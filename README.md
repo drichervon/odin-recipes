@@ -1,1 +1,3 @@
 # odin-recipes
+<!-- The Odin Project instructed me to write a brief introduction describing what the current project is and what skills i will have demonstrated once i have completed it -->
+In this project, I am going to build a basic recipe website. The skills I will demonstrate throughout this challenge are essentially all of the HTML knowledge I have acquired thus far. This includes but is not limited to: making lists, directing to absolute and/or relative links, and applying important elements.
